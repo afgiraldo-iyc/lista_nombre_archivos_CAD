@@ -41,3 +41,12 @@ Haz clic en Seleccionar carpeta y elige la carpeta deseada.
 El script generará file_list.xlsx dentro de esa misma carpeta.
 
 Cuando termine, pulsa Abrir Excel para visualizar la tabla con los nombres de archivo.
+
+🖥️ Crear un ejecutable (.exe)
+Para distribuir la aplicación sin requerir Python instalado:
+
+bash
+Copiar
+Editar
+pip install pyinstaller
+pyinstaller --onefile --windowed nombre_archivos.py
