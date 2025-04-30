@@ -1,4 +1,4 @@
-# Listador de Archivos GUI
+# Generador de lista de nombre de archivos de una carpeta
 
 **Desarrollador:** Nuevas Tecnologías División TI  
 
